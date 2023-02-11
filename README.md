@@ -48,5 +48,19 @@
 
 ### Scraping Result
 
+* #### Columns names:
+1. name
+2. bio
+3. following
+4. followers
+5. profile_photo_url
+6. wallpaper_photo_url
+7. tweet_caption
+8. tweet_media_url
+9. tweet_url
+10. tweet_timestamp
+11. retweets
+12. likes
+
 ![5-Scraping Result](https://user-images.githubusercontent.com/91950433/218285034-f65d9d48-c2c7-46ca-add5-b4585ade76fa.png)
 
