@@ -14,6 +14,9 @@
   ### 11. total retweets
   ### 12. total likes
   
+* ### This project has been uploaded in a website portfolio as follows:
+  - #### https://centralai.id/portofolio/detail/51
+  
 ![1-Cover](https://user-images.githubusercontent.com/91950433/218284399-86eb13e2-ce17-4214-a43a-4098786bc9c5.png)
 
 ### Twitter
